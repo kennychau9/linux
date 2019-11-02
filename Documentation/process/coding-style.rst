@@ -19,7 +19,7 @@ Anyway, here goes:
 --------------
 
 Tabs are 8 characters, and thus indentations are also 8 characters.
-There are heretic movements that try to make indentations 4 (or even 2!)
+There are heretic movements that try to make indentations 4 (or even 2 or 1!)
 characters deep, and that is akin to trying to define the value of PI to
 be 3.
 
